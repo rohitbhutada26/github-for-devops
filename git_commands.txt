@@ -1,2 +1,7 @@
 git init
 git status
+
+
+This is new changes
+
+git commit -m "Rohit Bhutada"
